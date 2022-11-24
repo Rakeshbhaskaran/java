@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="DWS_TC_POM.DWS_AdavnceSearch"/>
+      <class name="DWS_TC_POM.DWS_CheckOutProduct"/>
+      <class name="DWS_TC_POM.DWS_goToPrivacyNotice"/>
+      <class name="DWS_TC_POM.DWS_Tricentis"/>
+      <class name="DWS_TC_POM.DWS_ContactUs"/>
+      <class name="DWS_TC_POM.DWS_go_viewAllPage"/>
+      <class name="DWS_TC_POM.DWS_DigitalDownloads"/>
+      <class name="DWS_TC_POM.DWS_Subscribe"/>
+      <class name="DWS_TC_POM.DWS_ADDING_PRODUCT_TO_SC"/>
+      <class name="DWS_TC_POM.DWS_LOGIN"/>
+      <class name="DWS_TC_POM.DWS_COMMUNITY_POLL"/>
+      <class name="DWS_TC_POM.DWS_SEARCH"/>
+      <class name="DWS_TC_POM.DWS_AddProduct_To_Wishlist"/>
+      <class name="DWS_TC_POM.DWS_TwiterLogin"/>
+      <class name="DWS_TC_POM.DWS_AddProductFrom_NoteBookPage"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
