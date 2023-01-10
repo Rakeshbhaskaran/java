@@ -17,12 +17,8 @@ public class PRIORITYQUEUE {
 		System.out.println(p);
 		while(!p.isEmpty())
 		{
-			System.out.println(p.poll()6);
+			//System.out.println(p.poll()6);
 		}
-		
-		
-			
-		
 	}
 
 }

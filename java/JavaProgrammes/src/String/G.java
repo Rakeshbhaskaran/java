@@ -8,7 +8,7 @@ public class G { // swap to Strings without using another variable;
 	public static void main(String[] args) {
 		String a1="hello";
 		String a2="ALL";
-		a2
+		
 		
 		
 		

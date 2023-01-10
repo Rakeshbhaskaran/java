@@ -2,9 +2,6 @@ package EXCEPTIONHANDLING;
 
 public class THROW extends RuntimeException{
 
-	public THROW() {
-		// TODO Auto-generated constructor stub
-	}
 	THROW(String s){
 		super(s);
 	}
@@ -13,5 +10,4 @@ public class THROW extends RuntimeException{
 	throw new THROW("BAD");
 			
 		}
-
 }

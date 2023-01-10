@@ -6,9 +6,7 @@ import java.sql.SQLException;
 
 public class THROWS { // throws used to propagate exception
 
-	public THROWS() {
-		// TODO Auto-generated constructor stub
-	}
+	
 	static void m() throws IOException ,ArrayIndexOutOfBoundsException
 	{
 		System.out.println("hello");

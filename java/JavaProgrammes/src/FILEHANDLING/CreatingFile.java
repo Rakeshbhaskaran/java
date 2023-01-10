@@ -33,13 +33,7 @@ public class CreatingFile {
 		FileOutputStream fos = new FileOutputStream(f1);
 		String s= "CARPE DIEM";
 		fos.write(s.getBytes());
-		fos.close();
-		
-	
-		
-		
-		
-			
+		fos.close();	
 		
 	}
 	

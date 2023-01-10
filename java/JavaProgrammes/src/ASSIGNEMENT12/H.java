@@ -1,4 +1,4 @@
-0package ASSIGNEMENT12;
+package ASSIGNEMENT12;
 
 public class H {
 

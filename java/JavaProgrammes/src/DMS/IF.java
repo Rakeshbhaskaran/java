@@ -1,18 +1,14 @@
-package DWS;
+package DMS;
 
-public class A {
-
-	public A() {
-		// TODO Auto-generated constructor stub
-	}
-	
+public class IF {
 	public static void main(String[] args) {
 		int a =10;
-		if(a>100)
+		String s ="dog";
+		if(s.equalsIgnoreCase("dcat"))
 		{
 			System.out.println("true");
 		}
-		else if(a>100)
+		else if(s.equalsIgnoreCase("dog"))
 		{
 			System.out.println("false");
 		}
@@ -21,6 +17,5 @@ public class A {
 			System.out.println("else is not mandaotory");
 		}
 	}
-	
 
 }

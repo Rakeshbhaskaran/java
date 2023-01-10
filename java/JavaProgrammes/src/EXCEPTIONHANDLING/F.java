@@ -13,6 +13,7 @@ public class F { /* if we do not know what type of exception
 		}
 		catch(Throwable e) {
 			System.out.println("handled");
+			System.out.println(e);
 		}
 		
 	}
